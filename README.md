@@ -27,7 +27,7 @@ Antes da tecnologia, trabalhei por dois anos com vendas e atendimento ao cliente
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**MedAlert**](https://github.com/RafaelWilliam2808/medalert) | Controle de medicamentos para idosos e cuidadores, com testes automatizados, lint e CI. | Python · pytest · Ruff · GitHub Actions |
-| [**To-Do Vue 3**](https://github.com/RafaelWilliam2808/atividade-todo-vue) | Lista de tarefas refatorada de JavaScript puro para Vue 3, sem manipulação manual do DOM. | Vue 3 · JavaScript · HTML/CSS |
+| [**To-Do Vue 3**](https://github.com/RafaelWilliam2808/todo-vue3) | Lista de tarefas refatorada de JavaScript puro para Vue 3, sem manipulação manual do DOM. [Ver demo](https://rafaelwilliam2808.github.io/todo-vue3/) | Vue 3 · JavaScript · HTML/CSS |
 
 ### 🌱 No momento
 
