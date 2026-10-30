@@ -9,10 +9,10 @@
 
 <h2 align="left">👨‍💻 Sobre mim | About me</h2>
 
-- 🎓 Estudante de Engenharia de Software no UniCEUB, em busca da primeira oportunidade de **estágio em desenvolvimento Full Stack**.
-- 🛠️ Gosto de transformar problemas do dia a dia em software simples, testado e fácil de usar.
-- 🤝 Antes da tecnologia, trabalhei dois anos com vendas e atendimento ao cliente, o que me deu base sólida em comunicação, trabalho em equipe e foco no usuário.
-- 🌱 Estudando agora: APIs REST, bancos de dados relacionais e boas práticas de testes e CI/CD.
+-  Estudante de Engenharia de Software no UniCEUB, em busca da primeira oportunidade de **estágio em desenvolvimento Full Stack**.
+-  Gosto de transformar problemas do dia a dia em software simples, testado e fácil de usar.
+-  Antes da tecnologia, trabalhei dois anos com vendas e atendimento ao cliente, o que me deu base sólida em comunicação, trabalho em equipe e foco no usuário.
+-  Estudando agora: APIs REST, bancos de dados relacionais e boas práticas de testes e CI/CD.
 
 ###
 
