@@ -18,7 +18,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RafaelWilliam2808&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=15" height="150" alt="Sequência de contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWilliam2808&layout=compact&theme=tokyonight&hide_border=false&border_radius=15&locale=pt-br" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
