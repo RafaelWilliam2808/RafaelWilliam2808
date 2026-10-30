@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Rafael William 👋</h1>
 
-Estudante de **Engenharia de Software no CEUB** (Brasília – DF) e **desenvolvedor full stack em formação**.
+Estudante de **Engenharia de Software no UniCEUB** (Brasília – DF) e **desenvolvedor full stack em formação**.
 Gosto de transformar problemas do dia a dia em software simples, testado e fácil de usar.
 
 Antes da tecnologia, trabalhei por dois anos com vendas e atendimento ao cliente. Essa experiência me deixou uma base sólida em comunicação, trabalho em equipe e foco em quem vai usar o produto.
